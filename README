@@ -2,6 +2,14 @@ The CleanClipper is a bookmarklet that manages cleaning up a given web page rend
 It uses the link to text ratio based heuristic derived from Readability.js which is an Open Source tool for cleaning up web pages to improve readability.
 It can be installed as a bookmarklet.
 
+Instructions to improve OneNote clipper experience:
+1. Launch the web browser (say Google Chrome or Internet Explorer)
+2. Open bookmarks or favourites bar
+3. Ensure that the OneNote clipper bookmarklet is installed. If not, you can install it from https://www.onenote.com/Clipper/OneNote
+4. Select and right click on the bookmarklet to edit it
+5. Update the content of the bookmarklet to set to the CleanClipper.js file contents from the repository
+6. Save and enjoy!
+
 Credits:
 1. Readability (http://readability.com)
 2. OneNote Clipper
