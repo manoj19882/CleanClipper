@@ -1,0 +1,8 @@
+The CleanClipper is a bookmarklet that manages cleaning up a given web page rendered in the web browser and clipping the cleaned page to OneNote.
+It uses the link to text ratio based heuristic derived from Readability.js which is an Open Source tool for cleaning up web pages to improve readability.
+It can be installed as a bookmarklet.
+
+
+Known Issues:
+1. This bookmarklet does not manage signing in the user to the Windows Live account needed to talk to the user's OneNote notebook. So, the user should have signed into the notebook before using this bookmarklet.
+2. At times, if the page does not finish loading due to a large number of external network resources to fetch, the clipping may not happen due to page load event issues.
